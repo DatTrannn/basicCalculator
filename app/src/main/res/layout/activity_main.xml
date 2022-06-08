@@ -32,7 +32,8 @@
                 android:text="@string/clear"
                 android:textColor="@color/white"
                 android:textSize="24sp"
-                app:backgroundTint="@null" />
+                app:backgroundTint="@null"
+                tools:ignore="UsingOnClickInXml" />
 
             <Button
                 android:id="@+id/parenthesisBTN"
@@ -46,7 +47,8 @@
                 android:text="@string/parenthesis"
                 android:textColor="@color/white"
                 android:textSize="24sp"
-                app:backgroundTint="@null" />
+                app:backgroundTint="@null"
+                tools:ignore="UsingOnClickInXml" />
 
             <Button
                 android:id="@+id/exponentBTN"
@@ -60,7 +62,8 @@
                 android:text="@string/exponent"
                 android:textColor="@color/white"
                 android:textSize="24sp"
-                app:backgroundTint="@null" />
+                app:backgroundTint="@null"
+                tools:ignore="UsingOnClickInXml" />
 
             <Button
                 android:id="@+id/divideBTN"
@@ -74,7 +77,8 @@
                 android:text="@string/divide"
                 android:textColor="@color/white"
                 android:textSize="24sp"
-                app:backgroundTint="@null" />
+                app:backgroundTint="@null"
+                tools:ignore="UsingOnClickInXml" />
         </TableRow>
 
         <TableRow
@@ -93,7 +97,8 @@
                 android:text="@string/seven"
                 android:textColor="@color/white"
                 android:textSize="24sp"
-                app:backgroundTint="@null" />
+                app:backgroundTint="@null"
+                tools:ignore="UsingOnClickInXml" />
 
             <Button
                 android:id="@+id/eightBTN"
@@ -107,7 +112,8 @@
                 android:text="@string/eight"
                 android:textColor="@color/white"
                 android:textSize="24sp"
-                app:backgroundTint="@null" />
+                app:backgroundTint="@null"
+                tools:ignore="UsingOnClickInXml" />
 
             <Button
                 android:id="@+id/nineBTN"
@@ -121,10 +127,11 @@
                 android:text="@string/nine"
                 android:textColor="@color/white"
                 android:textSize="24sp"
-                app:backgroundTint="@null" />
+                app:backgroundTint="@null"
+                tools:ignore="UsingOnClickInXml" />
 
             <Button
-                android:id="@+id/mutipleBTN"
+                android:id="@+id/multipleBTN"
                 style="?android:attr/borderlessButtonStyle"
                 android:layout_width="0dp"
                 android:layout_height="70dp"
@@ -135,7 +142,8 @@
                 android:text="@string/multiply"
                 android:textColor="@color/white"
                 android:textSize="24sp"
-                app:backgroundTint="@null" />
+                app:backgroundTint="@null"
+                tools:ignore="UsingOnClickInXml" />
         </TableRow>
 
         <TableRow
@@ -154,7 +162,8 @@
                 android:text="@string/four"
                 android:textColor="@color/white"
                 android:textSize="24sp"
-                app:backgroundTint="@null" />
+                app:backgroundTint="@null"
+                tools:ignore="UsingOnClickInXml" />
 
             <Button
                 android:id="@+id/fiveBTN"
@@ -168,7 +177,8 @@
                 android:text="@string/five"
                 android:textColor="@color/white"
                 android:textSize="24sp"
-                app:backgroundTint="@null" />
+                app:backgroundTint="@null"
+                tools:ignore="UsingOnClickInXml" />
 
             <Button
                 android:id="@+id/sixBTN"
@@ -182,7 +192,8 @@
                 android:text="@string/six"
                 android:textColor="@color/white"
                 android:textSize="24sp"
-                app:backgroundTint="@null" />
+                app:backgroundTint="@null"
+                tools:ignore="UsingOnClickInXml" />
 
             <Button
                 android:id="@+id/subtractBTN"
@@ -196,7 +207,8 @@
                 android:text="@string/subtract"
                 android:textColor="@color/white"
                 android:textSize="24sp"
-                app:backgroundTint="@null" />
+                app:backgroundTint="@null"
+                tools:ignore="UsingOnClickInXml" />
         </TableRow>
 
         <TableRow
@@ -215,7 +227,8 @@
                 android:text="@string/one"
                 android:textColor="@color/white"
                 android:textSize="24sp"
-                app:backgroundTint="@null" />
+                app:backgroundTint="@null"
+                tools:ignore="UsingOnClickInXml" />
 
             <Button
                 android:id="@+id/twoBTN"
@@ -229,7 +242,8 @@
                 android:text="@string/two"
                 android:textColor="@color/white"
                 android:textSize="24sp"
-                app:backgroundTint="@null" />
+                app:backgroundTint="@null"
+                tools:ignore="UsingOnClickInXml" />
 
             <Button
                 android:id="@+id/threeBTN"
@@ -243,7 +257,8 @@
                 android:text="@string/three"
                 android:textColor="@color/white"
                 android:textSize="24sp"
-                app:backgroundTint="@null" />
+                app:backgroundTint="@null"
+                tools:ignore="UsingOnClickInXml" />
 
             <Button
                 android:id="@+id/plusBTN"
@@ -257,7 +272,8 @@
                 android:text="@string/add"
                 android:textColor="@color/white"
                 android:textSize="24sp"
-                app:backgroundTint="@null" />
+                app:backgroundTint="@null"
+                tools:ignore="UsingOnClickInXml" />
 
         </TableRow>
 
@@ -277,7 +293,8 @@
                 android:text="@string/plusMinus"
                 android:textColor="@color/white"
                 android:textSize="24sp"
-                app:backgroundTint="@null" />
+                app:backgroundTint="@null"
+                tools:ignore="UsingOnClickInXml" />
 
             <Button
                 android:id="@+id/zeroBTN"
@@ -291,7 +308,8 @@
                 android:text="@string/zero"
                 android:textColor="@color/white"
                 android:textSize="24sp"
-                app:backgroundTint="@null" />
+                app:backgroundTint="@null"
+                tools:ignore="UsingOnClickInXml" />
 
             <Button
                 android:id="@+id/pointBTN"
@@ -305,7 +323,8 @@
                 android:text="@string/point"
                 android:textColor="@color/white"
                 android:textSize="24sp"
-                app:backgroundTint="@null" />
+                app:backgroundTint="@null"
+                tools:ignore="UsingOnClickInXml" />
 
             <Button
                 android:id="@+id/equalsBTN"
@@ -320,24 +339,33 @@
                 android:text="@string/equals"
                 android:textColor="@color/white"
                 android:textSize="24sp"
-                app:backgroundTint="@null" />
+                app:backgroundTint="@null"
+                tools:ignore="UsingOnClickInXml" />
         </TableRow>
     </TableLayout>
 
-    <EditText
-        android:id="@+id/input"
-        android:layout_width="0dp"
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="409dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="30dp"
-        android:autofillHints="false"
-        android:inputType="none"
-        android:text="@string/display"
-        android:textAlignment="textEnd"
-        android:textSize="36sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:ignore="LabelFor" />
+        android:hint="@string/hint"
+        android:id="@+id/input"
+        app:hintEnabled="true"
+        >
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/value"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:textAlignment="textEnd"
+            android:textSize="36sp"
+            android:backgroundTint="@color/white"
+            />
+    </com.google.android.material.textfield.TextInputLayout>
+
 
     <ImageButton
         android:id="@+id/backspaceBTN"
@@ -354,6 +382,8 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:srcCompat="@drawable/backspace" />
+        app:srcCompat="@drawable/backspace"
+        tools:ignore="UsingOnClickInXml" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
